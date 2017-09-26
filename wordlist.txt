@@ -6,12 +6,13 @@ Phishing
 Scamming
 Programming
 "Researching"
-Injecting
+Injecting into
 Backdooring
 Hacking
 Scanning
 Tracking
 Hijacking
+Deleting Files From 
 Intercepting
 Spoofing
 Reversing
@@ -19,8 +20,7 @@ Cracking
 Bruteforcing
 Decrypting
 Bypassing
-Locking
-"Penetration" Testing
+Penetration Testing
 Preventing
 Protecting
 Machine Learning
@@ -48,7 +48,7 @@ Sensitive
 TEMPEST
 Defective
 Weak
-Open
+Open-Source
 Unprotected
 Online
 Offline
@@ -57,15 +57,14 @@ Windows
 High Tech
 Hardened
 Encrypted
-Security
 Equifax
-Meta-Physical
 Unencrypted
+Quantum
 Insecure
 Backdoored
 IOT
 ++
-Real operating systems
+Operating Systems
 Boxes
 Servers
 Computers
@@ -78,13 +77,14 @@ Devices
 Hardware
 Software
 Firewalls
-Cables
+Underwater Internet Cables
 Military Bases
 Fighter Jet Systems
 Laptops
 USB Devices
 USB Drives
 Power systems
+Private Keys
 Macbooks
 Hard drives
 Cars
@@ -99,13 +99,13 @@ Weapons
 Malware
 Exploits
 Voting Machines
-Competitions
+Security Competitions
 Iptables
 Multinational Corporations
 ++
 in a SCIF
 in the Labs
-Using a Knife
+using a Knife
 with Stolen NSA Tools
 with Vim
 using Procman
@@ -115,4 +115,5 @@ with SleuthKit
 at Defcon
 with God-like Determination
 with Bro
-using Just a Keyboard
+using just a Keyboard
+with a WiFi Pineapple
