@@ -1,0 +1,118 @@
+Securing
+Hardening
+Breaking
+Defending
+Phishing
+Scamming
+Programming
+"Researching"
+Injecting
+Backdooring
+Hacking
+Scanning
+Tracking
+Hijacking
+Intercepting
+Spoofing
+Reversing
+Cracking
+Bruteforcing
+Decrypting
+Bypassing
+Locking
+"Penetration" Testing
+Preventing
+Protecting
+Machine Learning
+++
+Agile
+Vulnerable
+Military Grade
+State-of-the-Art
+Interactive
+AI
+Intelligent
+Poorly Programmed
+Virtual
+Cyber
+L33t
+Mobile
+External
+Internal
+Solar-powered
+Viral
+PHP
+Disruptive
+++
+Sensitive
+TEMPEST
+Defective
+Weak
+Open
+Unprotected
+Online
+Offline
+Linux
+Windows
+High Tech
+Hardened
+Encrypted
+Security
+Equifax
+Meta-Physical
+Unencrypted
+Insecure
+Backdoored
+IOT
+++
+Real operating systems
+Boxes
+Servers
+Computers
+Systems
+Machines
+Integrated Units
+Porn Sites
+Promotional Items
+Devices
+Hardware
+Software
+Firewalls
+Cables
+Military Bases
+Fighter Jet Systems
+Laptops
+USB Devices
+USB Drives
+Power systems
+Macbooks
+Hard drives
+Cars
+SSDs
+0-day Worms
+Electrical Grids
+Nuclear Power Plants
+Robots
+SOC Teams
+Intrusion Detection Systems
+Weapons
+Malware
+Exploits
+Voting Machines
+Competitions
+Iptables
+Multinational Corporations
+++
+in a SCIF
+in the Labs
+Using a Knife
+with Stolen NSA Tools
+with Vim
+using Procman
+via Social Engineering
+with Metasploit
+with SleuthKit
+at Defcon
+with God-like Determination
+with Bro
+using Just a Keyboard
